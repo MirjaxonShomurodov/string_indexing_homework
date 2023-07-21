@@ -9,5 +9,5 @@
 
 def main(s):
     a="python"
-    return a[2]
+    return a[1]
 print(main("python"))

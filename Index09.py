@@ -6,4 +6,7 @@ def main(s):
     Returns:
         int: answer
     """
-    return
+    a="4"
+    a=int(a)
+    return -1
+print(main("4"))
